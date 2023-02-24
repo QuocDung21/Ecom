@@ -5,6 +5,7 @@ const Gig = () => {
       <div className="gig">
          <div>Backend</div>
          <div>Fontend update</div>
+         <div>api</div>
       </div>
    )
 }
