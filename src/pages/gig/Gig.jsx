@@ -4,7 +4,7 @@ const Gig = () => {
    return (
       <div className="gig">
          <div>Backend</div>
-         <div>Fontend</div>
+         <div>Fontend update</div>
       </div>
    )
 }
